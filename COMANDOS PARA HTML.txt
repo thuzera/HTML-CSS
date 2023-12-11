@@ -1,0 +1,37 @@
+COMANDOS PARA HTML:
+
+<br> = quebra de linha
+<img src="" alt=""> = adicionar imagem
+link:favicon = adicionar o icon da página
+<strong> = negrito
+<em> = itálico
+<mark> = marcar um texto
+<small> = texto pequeno
+<ins> = texto sublinhado
+<sup> = sobe o texto 
+<sub> = abaixa o texto
+<code> = fonte monoespaçada
+<pre> = mantém a forma do texto, pré formatação (espaçamento, linhas, etc)
+<q> = citações simples, sem quebras (coloca as aspas)
+<blockquote> = citações de bloco, longa
+<abbr> = abreviações
+<bdo> = texto invertido
+<ol> = lista ordenada
+<ul> = lista não ordenada
+<dl> = lista de definição (<dt> = nome / <dd> = definição ou significado)
+<li> = item da lista
+<a> âncora ( target="_blank" rel="external" rel="next" rel="prev" rel="nofollow"
+download="arquivo.formato" type="formato"
+<picture> <source media... = imagens flexíveis (celular, tablet, desktop, etc) [do menor para p maior]
+<video controls> <source src... = carregar videos
+
+
+//
+
+# = id
+. = class
+: = pseudo-class
+:: = pseudo-element
+> = clidren
+
+//
